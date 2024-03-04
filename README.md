@@ -13,4 +13,7 @@ Project term : 2023.11.15 ~ 2023.12.03 </br>
   * 산업경영공학과 이준범
 
 # References
+### Data Parameter
 https://github.com/MatthewReid854/reliability
+### Paper
+https://ieeexplore.ieee.org/abstract/document/9545141
